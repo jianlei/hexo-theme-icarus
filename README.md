@@ -1,3 +1,6 @@
+# 自定义的Icarus主题，效果参见：http://ini.jldaren.com
+
+
 # Icarus
 
 ### The blog theme you may fall in love with, coming to Hexo. [Preview](http://ppoffice.github.io/hexo-theme-icarus/)

@@ -31,6 +31,8 @@ logo-height = 0px + hexo-config("customize.logo.height")
 // Sidebar
 sidebar = hexo-config("customize.sidebar")
 thumbnail-default-small = 'images/thumb-default-small.png'
+home_sidebar = hexo-config("home_sidebar")
+post_sidebar = hexo-config("post_sidebar")
 
 // Profile bar
 profile = hexo-config("customize.profile.enabled")
@@ -40,11 +42,12 @@ profile-avatar-size = 128px
 block-margin = 40px
 article-padding = 20px
 mobile-nav-width = 280px
-main-column = 7
+main-column = 10
 sidebar-column = 3
 profile-column = 3
 sidebar-column-tablet = 4
 
+//edit by wjl
 if sidebar
     _sidebar-column = sidebar-column
 else
